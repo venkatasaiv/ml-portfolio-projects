@@ -68,14 +68,7 @@ project-folder/
 - Copyrighted or restricted content
 - Datasets without clear licensing
 
-## 🚫 What This Repository Does NOT Contain
 
-❌ Generated AI content  
-❌ Copied code from other sources  
-❌ Proprietary algorithms or datasets  
-❌ Copyright-infringing material  
-❌ Plagiarized academic work  
-❌ Watermarked AI-generated content  
 
 ## 📜 License
 
